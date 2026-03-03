@@ -65,6 +65,7 @@ Minha meta é evoluir de Analista de Dados para Especialista em BI e futuramente
 📩 Sempre aberto a oportunidades e projetos na área de Dados e Business Intelligence.
 
 Vamos transformar dados em decisões estratégicas.
+</p>
 
 <p align="center">
   <img src="https://github.com/robs-data/robs-data/blob/output/github-snake.svg" alt="Snake animation" />
