@@ -1,43 +1,73 @@
-# Olá 👋, eu sou o Robson Pereira
+<h1 align="center">🚀 Robson Pereira Machado</h1>
 
-**`Analista de Dados`**
+<p align="center">
+  📊 Data Analytics | 📈 Business Intelligence | 🧠 Estratégia Comercial
+</p>
 
-🔭 Atualmente trabalhando em Projetos de análise de dados com foco em métricas de negócio, comportamento do cliente e performance comercial.
-
-📊 Atuo na construção de dashboards e análises voltadas à tomada de decisão, com foco em métricas como churn, LTV, CAC e crescimento.
-
- <a href="https://github.com/ItsRobiOficial?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ItsRobiOficial?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ItsRobiOficial?tab=repositories">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ItsRobiOficial?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="www.linkedin.com/in/robs-data">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:robsonp.mdo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" /></a> </p>
+## 💡 Sobre Mim
 
+🎓 Técnico em Informática com foco em **Análise de Dados e BI**
+
+Minha abordagem é ponta a ponta:
+
+🔹 Engenharia e tratamento de dados (SQL Server)  
+🔹 Modelagem e análise exploratória (Python)  
+🔹 Dashboards estratégicos (Power BI)  
+🔹 Insights voltados para aumento de receita  
+
+💼 Diferencial: Experiência real na área comercial, conectando **dados + estratégia + resultado financeiro**.
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 🛠️ Stack Tecnológica
 
-<p> 
- <img align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=ItsRobiOficial&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> <img 
-  align="left" 
-  alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRobiOficial&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Evolução Profissional
+
+Minha meta é evoluir de Analista de Dados para Especialista em BI e futuramente Cientista de Dados, dominando:
+
+✔ Estatística aplicada a negócios  
+✔ Modelagem de dados escalável  
+✔ Automação de análises com Python  
+✔ Integração de dados em Cloud  
+✔ Machine Learning voltado para performance comercial  
+
+---
+
+<p align="center">
+---
+
+📩 Sempre aberto a oportunidades e projetos na área de Dados e Business Intelligence.
+
+Vamos transformar dados em decisões estratégicas.
