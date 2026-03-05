@@ -31,10 +31,6 @@ Minha abordagem é prática e orientada a resultado: transformo dados brutos em 
 ## 🛠️ Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -66,9 +62,7 @@ Vamos transformar dados em decisões estratégicas.
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/robs-data/robs-data/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/robs-data/robs-data/output/github-snake.svg" />
-  </picture>
+ <img src="https://raw.githubusercontent.com/ItsRobiOficial/ItsRobiOficial/output/snake.svg" alt="Snake animation" />
+
+###
 </p>
