@@ -28,7 +28,7 @@ Minha abordagem é prática e orientada a resultado: transformo dados brutos em 
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -62,7 +62,8 @@ Vamos transformar dados em decisões estratégicas.
 </p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/robs-data/robs-data/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/robs-data/robs-data/output/github-snake.svg" />
+</p>
 
 ###
 </p>
