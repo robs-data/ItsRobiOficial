@@ -66,8 +66,3 @@ Vamos transformar dados em decisões estratégicas.
 </p>
 
 ###
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/robs-data/robs-data/output/github-contribution-grid-snake.svg)
-
-###
