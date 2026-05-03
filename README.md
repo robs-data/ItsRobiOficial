@@ -55,9 +55,9 @@ Desenvolvimento de um pipeline de dados com tratamento em Python, modelagem e cr
 Identificação de padrões como concentração de receita em poucos clientes, sazonalidade dos eventos e categorias mais lucrativas, permitindo direcionar estratégias para aumento de receita.
 
 <p align="center">
-<a href="[SEU_LINK_AQUI](https://app.powerbi.com/view?r=eyJrIjoiNjliZmY1OTAtMWE3ZS00MjdlLWJiZmItOTA3OTVhOWRjMjVlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)">
-  <img src="https://img.shields.io/badge/Ver%20Análise%20Completa-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjliZmY1OTAtMWE3ZS00MjdlLWJiZmItOTA3OTVhOWRjMjVlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
+    <img src="https://img.shields.io/badge/Ver%20Análise%20Completa-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  </a>
 </p>
 
 ## 🎯 Roadmap Profissional
